@@ -1,2 +1,2 @@
-# RMMNet-master
-The Code for RMMNet: Retinex-based Multi-branch Convolution and Attention Mixer for Low-light Image Enhancement.
+# RMCMNet-master
+The Code for RMCMNet: Retinex-based Multi-branch Convolution-attention Mixer for Low-light Image Enhancement.
